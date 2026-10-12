@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Ziwei / 子維</h1>
+  <p><em>CS Undergrad @ Taipei | Backend, Systems & Open Source Enthusiast</em></p>
+</div>
 
-<!--
-**ziwei-sys/ziwei-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
+* 🌱 Currently studying Computer Science & Systems Development in Taiwan.
+* ⚡ Passionate about low-level logic, backend architecture, and clean code.
+* ☕ Powered by endless cups of coffee and late-night debugging sessions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+Languages : C++, Python, JavaScript, Rust
+Systems   : Linux (Arch / Ubuntu), Git, Docker
+Database  : PostgreSQL, Redis
+
+
+<p align="center">
+  <img width="736" height="491" alt="Taiwan" src="https://github.com/user-attachments/assets/fc1cce25-9645-483d-bfce-b6ef3b6e4b84" />
+
+</p>
