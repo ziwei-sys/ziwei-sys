@@ -5,7 +5,11 @@
 
 ---
 
-### 💻 About Me
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Muleish&weight=600&size=20&duration=4000&pause=1000&color=F7F7F7&width=300&height=40&lines=%F0%9F%90%BB+About+Me..." alt="About Me" />
+  </a>
+</p>
 * 🌱 Currently studying Computer Science & Systems Development in Taiwan.
 * ⚡ Passionate about low-level logic, backend architecture, and clean code.
 * ☕ Powered by endless cups of coffee and late-night debugging sessions.
