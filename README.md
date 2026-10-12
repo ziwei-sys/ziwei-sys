@@ -12,7 +12,7 @@
 </p>
 * 🌱 Currently studying Computer Science & Systems Development in Taiwan.
 * ⚡ Passionate about low-level logic, backend architecture, and clean code.
-* ☕ Powered by endless cups of coffee and late-night debugging sessions.
+* ☕ Powered by endless cups of coffee and late night debugging sessions.
 
 ### 🛠️ Tech Stack & Tools
 
